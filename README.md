@@ -21,4 +21,5 @@ To use the plugin in wordpress
 			<th>Tags</th>
 		</tr>
 	</thead>
-</table>```
+</table>
+```
